@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Check Sensors</string>
+    <string name="btnFind">Check Sensor</string>
+</resources>
