@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7c9c7c73c71e695c0186376b0133f12d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5372fc11560c70f0265a6a20f593f17d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\029fb1c0bbb8ad07538ad379005787b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7923e89cce7ed6ab0930fccaf3559c7a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a128d5c571e1ff1560dde19e20e25cc3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2eca9cee1809419f549845038346b0bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6396915f3895c19fda8da9fff9bb1a57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e46a3ce904f18a5a499bcdb52f802f40\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ed7287f07253650b2f6270e8f3e126bf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\937fc09aa1d2e50ffa59c72b00a8ee21\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ac5c5f8ac5147b0bb1ac0038b40d6ab8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cd965d88d36d3d29300b2363f7d2c4ad\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5372fc11560c70f0265a6a20f593f17d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5372fc11560c70f0265a6a20f593f17d\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.erosserver.roberto.checksensors.MainActivity
+ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:16:27-74
+uses-feature#android.hardware.Sensor
+ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:20:5-22:20
+	android:required
+		ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:20:58-81
+	android:name
+		ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml:20:19-57
+uses-sdk
+INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7c9c7c73c71e695c0186376b0133f12d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7c9c7c73c71e695c0186376b0133f12d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5372fc11560c70f0265a6a20f593f17d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5372fc11560c70f0265a6a20f593f17d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\029fb1c0bbb8ad07538ad379005787b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\029fb1c0bbb8ad07538ad379005787b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7923e89cce7ed6ab0930fccaf3559c7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7923e89cce7ed6ab0930fccaf3559c7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a128d5c571e1ff1560dde19e20e25cc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a128d5c571e1ff1560dde19e20e25cc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2eca9cee1809419f549845038346b0bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2eca9cee1809419f549845038346b0bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6396915f3895c19fda8da9fff9bb1a57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6396915f3895c19fda8da9fff9bb1a57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e46a3ce904f18a5a499bcdb52f802f40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e46a3ce904f18a5a499bcdb52f802f40\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ed7287f07253650b2f6270e8f3e126bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ed7287f07253650b2f6270e8f3e126bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\937fc09aa1d2e50ffa59c72b00a8ee21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\937fc09aa1d2e50ffa59c72b00a8ee21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ac5c5f8ac5147b0bb1ac0038b40d6ab8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ac5c5f8ac5147b0bb1ac0038b40d6ab8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cd965d88d36d3d29300b2363f7d2c4ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Roberto\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cd965d88d36d3d29300b2363f7d2c4ad\AndroidManifest.xml:20:5-44
+INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projetos Android\CheckSensors\app\src\main\AndroidManifest.xml
